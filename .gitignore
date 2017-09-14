@@ -1,4 +1,6 @@
-*.lyx*
+*.lyx
+*.lyx~
+*.lyx#
 *.pdf
 *.class
 gephi-0.9.1

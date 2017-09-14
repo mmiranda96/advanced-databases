@@ -30,6 +30,7 @@ for x in likes.values():
     s += math.pow(x - m, 2)
 s = math.sqrt(s / (len(likes) - 1))
 p = gauss(m, s, m + 1.5 * s)
+print()
 print('+===============================================+')
 print('| Statistic data                                |')
 print('+===============================================+')
@@ -46,7 +47,7 @@ for id, l in likes.items():
 print('+===============================================+')
 print('| Outliers                                      |')
 print('+===============================================+')
-for o in outliers.items():
+for o in sorted(outliers.items(), key=lambda x: x[1], reverse=True):
     print(' ' + str(o))
 print()
 
@@ -54,7 +55,7 @@ data_without = {}
 for e in edges:
     src = e[0]
     dest = e[1]
-    if src not in outliers and dest not in outliers:
+    if src not in outliers: #and dest not in outliers:
         if dest in data_without:
             data_without[dest] += 1
         else:
@@ -68,6 +69,11 @@ print('+===============================================+')
 for i in range(count):
     print(' ' + str(sorted_data_without[i]))
 print()
+with open('data/output.csv', 'w') as f:
+    f.write('page,likes_count\n')
+    for x in data_without.items():
+        f.write(x[0] + ',' + str(x[1]) + '\n')
+
 
 data_with = {}
 for e in edges:
@@ -84,3 +90,4 @@ print('| Most influential pages (with outliers):       |')
 print('+===============================================+')
 for i in range(count):
     print(' ' + str(sorted_data_with[i]))
+print()
