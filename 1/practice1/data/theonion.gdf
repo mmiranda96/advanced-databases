@@ -1,0 +1,957 @@
+nodedef>name VARCHAR,username VARCHAR,label VARCHAR,category VARCHAR,post_activity FLOAT,fan_count INT,talking_about_count INT,users_can_post VARCHAR,link VARCHAR
+20950654496,TheOnion,"The Onion","Media/News Company",1.04,6563598,591075,no,https://www.facebook.com/TheOnion/
+117213655674251,patriotholedoug,"Doug Baxter","Public Figure",0.07,8248,7347,no,https://www.facebook.com/patriotholedoug/
+936699126457536,avsupperclub,"Supper Club","Media/News Company",0.07,16852,1388,no,https://www.facebook.com/avsupperclub/
+969328293142127,avfilmclub,"A.V. Film Club","Media/News Company",0.09,10685,434,no,https://www.facebook.com/avfilmclub/
+559192904227890,onionpolitics,"Onion Politics","Media/News Company",0.05,112679,1946,no,https://www.facebook.com/onionpolitics/
+917440214962126,AVNewswire,"A.V. Newswire",Newspaper,0.3,69987,3504,no,https://www.facebook.com/AVNewswire/
+20531316728,facebook,Facebook,Company,0,190811874,446000,no,https://www.facebook.com/facebook/
+368257363210758,OnionLabs,"Onion Labs","Media/News Company",0.02,26067,403,yes,https://www.facebook.com/OnionLabs/
+1439042583002670,clickhole,ClickHole,"Media/News Company",0.96,749834,170684,yes,https://www.facebook.com/clickhole/
+299551873524339,BradMBlevins,"Brad's Awesome Team",Coach,0,821,1,yes,https://www.facebook.com/BradMBlevins/
+183888964961044,OnionSports,"Onion Sports","Media/News Company",0.07,83132,6301,yes,https://www.facebook.com/OnionSports/
+39581755672,theavclub,"The A.V. Club","Media/News Company",2.39,513024,79531,no,https://www.facebook.com/theavclub/
+109790298861,theonionstore,"The Onion Store",Website,0,5979,9,yes,https://www.facebook.com/theonionstore/
+411063055939696,PatriotHole,PatriotHole,"Media/News Company",0.16,79858,37139,yes,https://www.facebook.com/PatriotHole/
+42646166995,musicboxchicago,"Music Box Theatre","Movie Theater",0.13,39898,1668,yes,https://www.facebook.com/musicboxchicago/
+138645369485522,TIFF,TIFF,"Performance & Event Venue",0.59,212632,33396,no,https://www.facebook.com/TIFF/
+276102415796074,gameological,"The Gameological Society",Website,0,1725,1,no,https://www.facebook.com/gameological/
+562288220593130,avtvclub,"A.V. TV Club","Arts & Entertainment",0.17,10113,411,no,https://www.facebook.com/avtvclub/
+1069936086365702,fusionmedianetwork,Fusion,"Media/News Company",1,1817451,171616,no,https://www.facebook.com/fusionmedianetwork/
+899482440144146,TheOnionWhiteStage,"Onion Productions","Movie/Television Studio",0,513,5,yes,https://www.facebook.com/TheOnionWhiteStage/
+152917571386966,analoglab,"Facebook Analog Research Laboratory","Graphic Designer",0.01,41937,91,no,https://www.facebook.com/analoglab/
+486807888134241,lifestyle,"Lifestyle on Facebook",Community,0.01,1004436,411,no,https://www.facebook.com/lifestyle/
+74100576336,marketing,"Facebook Business",Website,0.63,11558078,17455,yes,https://www.facebook.com/marketing/
+390332947672289,CommunityVoices,"Community Voices from Facebook","Video Creator",0,2370661,7595,no,https://www.facebook.com/CommunityVoices/
+158736497491762,onavo,Onavo,"Computer Repair Service",0,76845,72200,no,https://www.facebook.com/onavo/
+367152833370567,instagram,Instagram,"App Page",0.14,48197629,111837,no,https://www.facebook.com/instagram/
+41130665917,nonprofits,"Nonprofits on Facebook",Cause,0.01,1085942,764,no,https://www.facebook.com/nonprofits/
+143483439014410,Universities,"Universities on Facebook",Company,0.01,314925,966,no,https://www.facebook.com/Universities/
+150984694912422,influencers,"Influencers on Facebook",Community,0.03,3561550,2441,yes,https://www.facebook.com/influencers/
+10435416547,Musicians,"Music on Facebook",Community,0.04,6283063,4340,no,https://www.facebook.com/Musicians/
+125713384123802,fbprivacy,"Facebook and Privacy",Product/Service,0,2698408,2437,no,https://www.facebook.com/fbprivacy/
+45099769719,TravelOregon,"Travel Oregon","Travel Company",0.08,416042,867,yes,https://www.facebook.com/TravelOregon/
+125463277610910,quakerstate,"Quaker State",Product/Service,0.02,72382,355,yes,https://www.facebook.com/quakerstate/
+181139617658,MoesSouthwestGrill,"Moe's Southwest Grill","Southwestern Restaurant",0.15,613852,25342,yes,https://www.facebook.com/MoesSouthwestGrill/
+25730596490,scottslawn,"Scotts Lawn Care",Patio/Garden,0.05,317378,196,yes,https://www.facebook.com/scottslawn/
+107292852631016,levinsonlocations,"Levinson Locations","Local Service",0,459,0,yes,https://www.facebook.com/levinsonlocations/
+626344864088651,reviewwithforrestmacneil,Review,"TV Show",0.01,23645,27,no,https://www.facebook.com/reviewwithforrestmacneil/
+171613709519219,ateliercrenn,"Atelier Crenn","French Restaurant",0,16498,320,yes,https://www.facebook.com/ateliercrenn/
+138433099531426,,"Tú Lan","Vietnamese Restaurant",0,1194,16,yes,https://www.facebook.com/Tú-Lan-138433099531426/
+46345513482,earholestudios,"Earhole Studios","Music Production Studio",0,827,14,no,https://www.facebook.com/earholestudios/
+84763399274,LendingTree,LendingTree,Product/Service,0.03,344201,13162,yes,https://www.facebook.com/LendingTree/
+143743819137192,FargoFX,Fargo,"TV Show",0.02,675356,1491,yes,https://www.facebook.com/FargoFX/
+1438390789784819,YUPmilk,YUP,"Food & Beverage Company",0.01,164170,70,yes,https://www.facebook.com/YUPmilk/
+209428082411028,elideaschi,"El Ideas","American Restaurant",0.01,6677,88,yes,https://www.facebook.com/elideaschi/
+180715575463664,,"Jim's Original","Hot Dog Joint",0,2338,93,yes,https://www.facebook.com/Jims-Original-180715575463664/
+246088980886,RumChataOfficial,RumChata,Wine/Spirits,0.02,314023,10340,yes,https://www.facebook.com/RumChataOfficial/
+7990899756,truTV,truTV,"TV Network",0.09,890417,1438,no,https://www.facebook.com/truTV/
+7236260177,TiVo,TiVo,Product/Service,0.02,224248,1552,yes,https://www.facebook.com/TiVo/
+54145863002,otterbox,OtterBox,Product/Service,0.35,839401,3314,yes,https://www.facebook.com/otterbox/
+123032162727,Orbitz,Orbitz,"Travel Agency",0.23,676404,2559,yes,https://www.facebook.com/Orbitz/
+105868097300,jackdaniels,"Jack Daniel's Tennessee Whiskey",Wine/Spirits,0.02,16067549,28030,yes,https://www.facebook.com/jackdaniels/
+19557566476,IFC,IFC,"TV Network",0.07,423822,16041,no,https://www.facebook.com/IFC/
+5642244660,JimGaffigan,"Jim Gaffigan",Comedian,0.08,838144,14245,yes,https://www.facebook.com/JimGaffigan/
+321682048036990,GaffiganShow,"The Jim Gaffigan Show","TV Show",0.01,96657,43,yes,https://www.facebook.com/GaffiganShow/
+167658763270506,FritoLay,Frito-Lay,"Food & Beverage Company",0.25,2305481,1782,yes,https://www.facebook.com/FritoLay/
+45002877992,FOXTV,FOX,"TV Network",0.09,2506956,5264,yes,https://www.facebook.com/FOXTV/
+506386699400611,Fiat,Fiat,"Automotive Manufacturer",0.21,2383126,2332,yes,https://www.facebook.com/Fiat/
+412302902150250,DairyGood,"Dairy Good",Publisher,0.04,86445,1271,yes,https://www.facebook.com/DairyGood/
+6096369029,ComedyCentral,"Comedy Central","News & Media Website",0.18,6365020,85240,yes,https://www.facebook.com/ComedyCentral/
+271902080532,Clorox,Clorox,"Household Supplies",0.1,1147645,2867,yes,https://www.facebook.com/Clorox/
+14101740225,CDWCorporation,"CDW Corporation","Business Service",0.1,108571,359,yes,https://www.facebook.com/CDWCorporation/
+74296272587,Cheetos,Cheetos,"Food & Beverage Company",0.09,1594167,1882,yes,https://www.facebook.com/Cheetos/
+156518261115293,fairlifeLLC,Fairlife,"Grocery Store",0.01,115758,489,yes,https://www.facebook.com/fairlifeLLC/
+608604699274008,within,WITHIN,Video,0.02,6998,37,yes,https://www.facebook.com/within/
+51657563086,PAXvapor,PAX,Product/Service,0.02,17658,141,yes,https://www.facebook.com/PAXvapor/
+39005545661,WhitehousePost,"Whitehouse Post","Broadcasting & Media Production Company",0.02,3084,51,yes,https://www.facebook.com/WhitehousePost/
+22764423720,SearchEngineJournal,"Search Engine Journal","Media/News Company",0.46,161477,1108,yes,https://www.facebook.com/SearchEngineJournal/
+7177913734,reddit,Reddit,"News & Media Website",0.04,1145179,6411,yes,https://www.facebook.com/reddit/
+8310601338,coorslight,"Coors Light","Food & Beverage Company",0.03,3015364,6523,yes,https://www.facebook.com/coorslight/
+7270241753,youtube,YouTube,Product/Service,6.75,83074889,164469,yes,https://www.facebook.com/youtube/
+22166130048,ford,"Ford Motor Company","Automotive Manufacturer",1.37,8303128,8475,yes,https://www.facebook.com/ford/
+129116587024,PRWeekUS,PRWeek,"Media/News Company",0.13,39912,320,yes,https://www.facebook.com/PRWeekUS/
+27678194634,lenovo,Lenovo,"Computer Company",1.1,6462063,1059000,yes,https://www.facebook.com/lenovo/
+322751224414232,reddsappleale,"Redd's Apple Ale","Food & Beverage Company",0.03,555164,2294,yes,https://www.facebook.com/reddsappleale/
+34145704527,threadless,Threadless,"E-commerce Website",0.12,903526,8191,yes,https://www.facebook.com/threadless/
+6007352619,newbelgium,"New Belgium Brewing",Brewery,0.09,835634,3345,yes,https://www.facebook.com/newbelgium/
+383388851123,thefirstyearsbrand,"The First Years","Baby Goods/Kids Goods",0.03,67623,2497,yes,https://www.facebook.com/thefirstyearsbrand/
+126756847074,Adweek,Adweek,"Media/News Company",0.36,569147,8817,no,https://www.facebook.com/Adweek/
+10461186460,benandjerrysUS,"Ben & Jerry's",Product/Service,0.29,8688493,28481,yes,https://www.facebook.com/benandjerrysUS/
+145271360491,chicagofilmfestival,"Chicago International Film Festival","Movie Theater",0.05,45986,246,no,https://www.facebook.com/chicagofilmfestival/
+205371536152782,Droga5,Droga5,"Advertising Agency",0.01,65201,195,no,https://www.facebook.com/Droga5/
+238205562866018,BuzzFeedPartner,"BuzzFeed Partner","Entertainment Website",0.02,1662107,174378,no,https://www.facebook.com/BuzzFeedPartner/
+194053120879,AdAge,"Advertising Age",Publisher,0.62,456142,5614,no,https://www.facebook.com/AdAge/
+146766568694599,wiedenkennedy,Wieden+Kennedy,"Advertising Agency",0,39464,75,no,https://www.facebook.com/wiedenkennedy/
+24860070976,constantcontact,"Constant Contact",Software,0.09,152540,639,yes,https://www.facebook.com/constantcontact/
+1088846181131521,HeinekenUSA,Heineken,"Food & Beverage Company",0,23239110,3402,yes,https://www.facebook.com/HeinekenUSA/
+120167766006,fanduel,FanDuel,Website,0.26,1085950,4068,no,https://www.facebook.com/fanduel/
+26376118037,TitosVodka,"Tito's Handmade Vodka",Wine/Spirits,0.03,88140,5811,yes,https://www.facebook.com/TitosVodka/
+182742245082814,fourloko,"Four Loko",Wine/Spirits,0.01,935221,3714,no,https://www.facebook.com/fourloko/
+184980658288116,beautyrestbeds,Beautyrest,"Mattress Store",0.02,79642,1472,yes,https://www.facebook.com/beautyrestbeds/
+209439910667,5HourEnergyShot,"5-Hour Energy",Vitamins/Supplements,0.04,104264,589,yes,https://www.facebook.com/5HourEnergyShot/
+159615015923,NoiseFloorLTD,"NoiseFloor LTD.","Broadcasting & Media Production Company",0.02,1038,42,yes,https://www.facebook.com/NoiseFloorLTD/
+213639758781,digiorno,DiGiorno,"Food & Beverage Company",0.08,1295600,13609,yes,https://www.facebook.com/digiorno/
+55330643140,dennys,Denny's,"Food & Beverage Company",0.23,1307501,4859,yes,https://www.facebook.com/dennys/
+158752840999708,CoveredIllinois,"Get Covered Illinois","Government Organization",0.01,17353,18,yes,https://www.facebook.com/CoveredIllinois/
+8625520535,overstock,Overstock,"Retail Company",0.08,1229302,26633,no,https://www.facebook.com/overstock/
+47738073741,Phantogram,Phantogram,Musician/Band,0.04,422292,3996,yes,https://www.facebook.com/Phantogram/
+8103318119,target,Target,"Retail Company",2.06,23838087,451129,yes,https://www.facebook.com/target/
+27486451851,Chobani,Chobani,"Food & Beverage Company",0.17,1460782,4869,yes,https://www.facebook.com/Chobani/
+288473261199516,realtimheidecker,"Tim Heidecker",Comedian,0.03,36424,762,yes,https://www.facebook.com/realtimheidecker/
+235706558591,blucigs,blu,Product/Service,0.05,73730,129,yes,https://www.facebook.com/blucigs/
+7144906559,KFC,KFC,"Chicken Joint",0.02,47671058,22820,no,https://www.facebook.com/KFC/
+229953860348112,schickxtreme3,"Schick Xtreme3",Product/Service,0,157785,78,yes,https://www.facebook.com/schickxtreme3/
+205867202331,lemonhead,Lemonhead,"Candy Store",0,302057,181,yes,https://www.facebook.com/lemonhead/
+196962083762082,benandjerrys,"Ben & Jerry's",Product/Service,0.01,8688493,1474,yes,https://www.facebook.com/benandjerrys/
+22707976849,Intel,Intel,Product/Service,0.07,38638714,13116,yes,https://www.facebook.com/Intel/
+149925701704512,officialdannytrejo,"Danny Trejo",Artist,0.15,4233012,39506,yes,https://www.facebook.com/officialdannytrejo/
+108527589171043,,Ketchup,Food,0,26145,0,no,https://www.facebook.com/pages/Ketchup/108527589171043
+344945368958439,ReeseWitherspoon,"Reese Witherspoon",Artist,0.07,3965113,140251,no,https://www.facebook.com/ReeseWitherspoon/
+142318649136676,,"Jeremy Renner",Artist,0.01,1910532,1510,no,https://www.facebook.com/Jeremy-Renner-142318649136676/
+21411215352,Sublime,Sublime,Musician/Band,0.06,5231973,19456,yes,https://www.facebook.com/Sublime/
+429762540505399,,"Here's to you","Public Figure",0,4673,11,yes,https://www.facebook.com/Heres-to-you-429762540505399/
+89562268312,VinDiesel,"Vin Diesel",Other,0.02,101423393,256561,no,https://www.facebook.com/VinDiesel/
+1420531521507238,TheAmericanPresidentMovie,"The American President",Movie,0,96285,42,yes,https://www.facebook.com/TheAmericanPresidentMovie/
+498110930201359,fastballtheband,Fastball,"Arts & Entertainment",0.03,34759,460,yes,https://www.facebook.com/fastballtheband/
+374111189271559,AndrewLuckQB,"Andrew Luck",Athlete,0.67,494459,6659,yes,https://www.facebook.com/AndrewLuckQB/
+161046697289702,AntonioBrown84,"Antonio Brown",Athlete,0.01,676248,24021,yes,https://www.facebook.com/AntonioBrown84/
+213911638716638,Fitzgerald,"Larry Fitzgerald",Athlete,0.01,1037046,21996,yes,https://www.facebook.com/Fitzgerald/
+121481837925275,mattforte22,"Matt Forte",Athlete,0,280175,139,no,https://www.facebook.com/mattforte22/
+284300559123,MiamiHeat,"Miami Heat","Sports Team",0.05,15906928,11331,no,https://www.facebook.com/MiamiHeat/
+257372997608848,OfficialChrisBosh,"Chris Bosh",Athlete,0,2576741,1152,no,https://www.facebook.com/OfficialChrisBosh/
+79979913992,dwyanewade,"Dwyane Wade",Athlete,0.02,11238158,8191,no,https://www.facebook.com/dwyanewade/
+64637653943,LeBron,"LeBron James",Athlete,0.46,23233743,225810,yes,https://www.facebook.com/LeBron/
+110811238947525,,"United States Of America",Country,0,393064,0,no,https://www.facebook.com/pages/United-States-Of-America/110811238947525
+148810881835382,TheAlexReiser,"Alex Reiser","Public Figure",0,390,0,yes,https://www.facebook.com/TheAlexReiser/
+183359918346087,MarkShepardSD,"Mark Shepard","Public Figure",0,360,0,yes,https://www.facebook.com/MarkShepardSD/
+398131566864453,BeyondTheMarquee,"Beyond the Marquee","Media/News Company",0.07,2749,49,yes,https://www.facebook.com/BeyondTheMarquee/
+255364922374,comiccon,"Comic-Con International","Nonprofit Organization",0.07,1963042,2441,yes,https://www.facebook.com/comiccon/
+64075251007,cameronjokes,"Cameron Esposito",Comedian,0.07,93698,4469,yes,https://www.facebook.com/cameronjokes/
+475108665872221,RheaButcher,"Rhea Butcher",Comedian,0.01,19482,260,yes,https://www.facebook.com/RheaButcher/
+57802365742,HitfixUPROXX,"HitFix on UPROXX","Entertainment Website",0.41,528523,15520,yes,https://www.facebook.com/HitfixUPROXX/
+162454007121996,InstagramEnglish,Instagram,"App Page",0.14,48215867,1004397,no,https://www.facebook.com/InstagramEnglish/
+116548701336,UPROXX,UPROXX,"Society & Culture Website",0.99,1930650,97275,no,https://www.facebook.com/UPROXX/
+191590407552375,flockofdimes,"Flock of Dimes",Musician/Band,0.01,5297,20,yes,https://www.facebook.com/flockofdimes/
+335102103242405,wet,Wet,Musician/Band,0.01,56134,151,yes,https://www.facebook.com/wet/
+22211200611,thesecondcity,"The Second City","Performance Art Theatre",0.07,155989,1398,yes,https://www.facebook.com/thesecondcity/
+197311240419563,LateNightSeth,"Late Night with Seth Meyers","TV Show",0.05,707050,51681,no,https://www.facebook.com/LateNightSeth/
+140859252640484,SharonVanEttenMusic,"Sharon Van Etten",Musician/Band,0.01,106150,195,yes,https://www.facebook.com/SharonVanEttenMusic/
+665814993476244,therealrunthejewels,"Run The Jewels",Musician/Band,0.04,306231,3532,no,https://www.facebook.com/therealrunthejewels/
+425435420806576,angelolsenmusic,"Angel Olsen",Musician/Band,0.01,108390,529,yes,https://www.facebook.com/angelolsenmusic/
+10513336322,theguardian,"The Guardian","Media/News Company",2.36,7691886,686353,no,https://www.facebook.com/theguardian/
+301768729858252,MacDeMarcoBand,"Mac DeMarco",Musician/Band,0.01,510584,10655,yes,https://www.facebook.com/MacDeMarcoBand/
+119252028163238,protomartyr,Protomartyr,Musician/Band,0.01,27644,863,yes,https://www.facebook.com/protomartyr/
+295074610512693,aerialballetrecords,"Aerial Ballet Records","Music Production Studio",0,309,1,yes,https://www.facebook.com/aerialballetrecords/
+114286765252202,StudiocanalUK,STUDIOCANAL,"Movie/Television Studio",0.03,691352,3954,yes,https://www.facebook.com/StudiocanalUK/
+7433207084,yeahrightpos,P.O.S,Musician/Band,0.07,87125,692,yes,https://www.facebook.com/yeahrightpos/
+11251675980,,"VHS OR BETA",Musician/Band,0,10852,12,yes,https://www.facebook.com/VHS-OR-BETA-11251675980/
+442820962412810,Newsroom,"The Newsroom","TV Show",0.02,657452,420,yes,https://www.facebook.com/Newsroom/
+57672450150,,Firefly,"TV Show",0,253490,73,yes,https://www.facebook.com/Firefly-57672450150/
+123031417774466,girlsHBO,Girls,"TV Show",0.01,2058297,2871,no,https://www.facebook.com/girlsHBO/
+7034617962,Lucero,Lucero,Musician/Band,0.04,175274,2552,yes,https://www.facebook.com/Lucero/
+6275848869,netflixus,Netflix,"Media/News Company",0.08,38828906,1197773,yes,https://www.facebook.com/netflixus/
+6979332244,radiohead,Radiohead,Musician/Band,0.01,11865348,16340,yes,https://www.facebook.com/radiohead/
+21872489496,ModestMouse,"Modest Mouse",Musician/Band,0,1838582,2049,yes,https://www.facebook.com/ModestMouse/
+20778076336,thislife,"This American Life","Media/News Company",0.04,1131848,2788,no,https://www.facebook.com/thislife/
+15526475270,dexter,Dexter,"TV Show",0.01,13271535,9320,yes,https://www.facebook.com/dexter/
+22476490672,daftpunk,"Daft Punk",Musician/Band,0,13426587,9442,no,https://www.facebook.com/daftpunk/
+30975687682,TheSmithsOfficial,"The Smiths",Musician/Band,0,4039578,62868,yes,https://www.facebook.com/TheSmithsOfficial/
+9588466619,Futurama,Futurama,"TV Show",0.02,27204846,24170,no,https://www.facebook.com/Futurama/
+52012253855,,Delocated,"TV Show",0,11694,8,yes,https://www.facebook.com/Delocated-52012253855/
+6092929747,theofficenbc,"The Office","TV Show",0.01,9761445,8464,no,https://www.facebook.com/theofficenbc/
+7807422276,OfficialHowIMetYourMother,"How I Met Your Mother","TV Show",0.01,22871081,23195,no,https://www.facebook.com/OfficialHowIMetYourMother/
+29534858696,TheSimpsons,"The Simpsons","TV Show",0.02,65836766,47164,yes,https://www.facebook.com/TheSimpsons/
+10473091455,alwayssunny,"It's Always Sunny in Philadelphia","TV Show",0.01,3702232,3975,yes,https://www.facebook.com/alwayssunny/
+18957981609,AmericanDad,"American Dad","TV Show",0.02,16786810,93155,yes,https://www.facebook.com/AmericanDad/
+262102492125,cloudnothings,"Cloud Nothings",Musician/Band,0.01,110505,168,yes,https://www.facebook.com/cloudnothings/
+207203639334660,ParadiseLost3,"Paradise Lost 3: Purgatory",Movie,0,13341,18,yes,https://www.facebook.com/ParadiseLost3/
+74133697733,GameOfThrones,"Game of Thrones","TV Show",0.08,22338417,191332,yes,https://www.facebook.com/GameOfThrones/
+23415556776,TheHoldSteady,"The Hold Steady",Music,0.02,75681,58,yes,https://www.facebook.com/TheHoldSteady/
+68240789745,TheWalkmen,"The Walkmen",Musician/Band,0,101376,116,yes,https://www.facebook.com/TheWalkmen/
+17314008126,mountaingoatsmusic,"the Mountain Goats",Musician/Band,0.03,135433,4816,yes,https://www.facebook.com/mountaingoatsmusic/
+209758011306,officeoffutureplans,"Office Of Future Plans",Musician/Band,0,2878,8,yes,https://www.facebook.com/officeoffutureplans/
+105719356904,dessadarling,Dessa,Musician/Band,0.04,61704,1440,yes,https://www.facebook.com/dessadarling/
+132845190077946,TheRoots,"The Roots",Musician/Band,0.01,1588478,11114,no,https://www.facebook.com/TheRoots/
+5229624654,thedecemberists,"The Decemberists",Musician/Band,0.01,598099,638,yes,https://www.facebook.com/thedecemberists/
+107777555911981,,"Kanye West",Artist,0,9341108,0,yes,https://www.facebook.com/pages/Kanye-West/107777555911981
+15925638948,imdb,IMDb,"Entertainment Website",0.3,7202972,225330,no,https://www.facebook.com/imdb/
+20092504125,tomwaits,"Tom Waits",Musician/Band,0,2123202,1520,no,https://www.facebook.com/tomwaits/
+11955325695,bobdylan,"Bob Dylan",Musician/Band,0.01,6813455,17293,no,https://www.facebook.com/bobdylan/
+30899502664,davidbowie,"David Bowie",Musician/Band,0.02,6963898,21610,no,https://www.facebook.com/davidbowie/
+39644305296,FightClub,"Fight Club",Movie,0,9900953,7378,yes,https://www.facebook.com/FightClub/
+10671482654,pattonoswalt,"Patton Oswalt",Comedian,0,671689,4635,yes,https://www.facebook.com/pattonoswalt/
+7976226799,thedailyshow,"The Daily Show","TV Show",0.25,7374947,249645,yes,https://www.facebook.com/thedailyshow/
+21931600316,NeilYoung,"Neil Young",Musician/Band,0.21,3302474,10442,yes,https://www.facebook.com/NeilYoung/
+24709128407,FleetFoxes,"Fleet Foxes",Musician/Band,0,1047753,1619,yes,https://www.facebook.com/FleetFoxes/
+18279403944,beastieboys,"Beastie Boys",Musician/Band,0,3235705,2382,no,https://www.facebook.com/beastieboys/
+14591271531,Beck,Beck,Musician/Band,0.01,1795722,10799,yes,https://www.facebook.com/Beck/
+22939707441,pixiesofficial,PIXIES,Musician/Band,0.03,2117227,9617,yes,https://www.facebook.com/pixiesofficial/
+5151709484,theclash,"The Clash",Musician/Band,0,4120632,2908,no,https://www.facebook.com/theclash/
+10643211755,NPR,NPR,"Broadcasting & Media Production Company",1.61,6154296,818108,no,https://www.facebook.com/NPR/
+6243987495,Spotify,Spotify,Product/Service,0,17413212,122254,no,https://www.facebook.com/Spotify/
+125938460770575,boardwalkempire,"Boardwalk Empire","TV Show",0.01,1747005,1554,yes,https://www.facebook.com/boardwalkempire/
+473374319361548,OfficialMotorhead,"Official Motörhead",Musician/Band,0.26,2806769,17477,yes,https://www.facebook.com/OfficialMotorhead/
+122367057790637,littlescream,"Little Scream",Musician/Band,0.01,7129,92,yes,https://www.facebook.com/littlescream/
+170128313073004,thestoneroses,"The Stone Roses",Musician/Band,0.02,809626,731,yes,https://www.facebook.com/thestoneroses/
+11539801009,thenationalofficial,"The National",Musician/Band,0.15,951222,40142,yes,https://www.facebook.com/thenationalofficial/
+64386671720,EastboundandDown,"Kenny Powers of Eastbound & Down","TV Show",0,1354227,1054,yes,https://www.facebook.com/EastboundandDown/
+10045457582,Smallville,Smallville,"TV Show",0.01,6318454,4880,no,https://www.facebook.com/Smallville/
+9023924452,seinfeld,Seinfeld,"TV Show",0.07,5018033,55621,yes,https://www.facebook.com/seinfeld/
+63235852597,parksandrecreation,"Parks and Recreation","TV Show",0.01,1948346,2141,no,https://www.facebook.com/parksandrecreation/
+181143148594254,melancholiafilm,Melancholia,Movie,0,270443,306,yes,https://www.facebook.com/melancholiafilm/
+75889690752,Wham,Wham!,Musician/Band,0,469258,321,yes,https://www.facebook.com/Wham/
+117385731241,peterwolfcrier,"Peter Wolf Crier",Music,0,6727,5,yes,https://www.facebook.com/peterwolfcrier/
+40039128105,mannequinmen,"Mannequin Men",Musician/Band,0,1951,5,yes,https://www.facebook.com/mannequinmen/
+43542925935,iammatthewsweet,"Matthew Sweet",Musician/Band,0.04,32114,373,yes,https://www.facebook.com/iammatthewsweet/
+198200580226823,wugazi,Wugazi,Musician/Band,0,19100,17,yes,https://www.facebook.com/wugazi/
+7774036261,noreservations,"Anthony Bourdain: No Reservations","TV Show",0.01,1690254,985,yes,https://www.facebook.com/noreservations/
+6708787004,southpark,"South Park","TV Show",0.06,44776940,190083,yes,https://www.facebook.com/southpark/
+114098901934106,,"Electric Six",Interest,0,67829,0,no,https://www.facebook.com/pages/Electric-Six/114098901934106
+8526405673,twilight,"The Twilight Saga",Movie,0,45498890,31725,yes,https://www.facebook.com/twilight/
+104096819626010,,Superchunk,Interest,0,27799,0,no,https://www.facebook.com/pages/Superchunk/104096819626010
+8759772983,REMhq,R.E.M.,Musician/Band,0.11,4702901,7436,no,https://www.facebook.com/REMhq/
+239388882769452,OfficialMindyKaling,"Mindy Kaling","Public Figure",0.09,818697,25968,no,https://www.facebook.com/OfficialMindyKaling/
+121241604618898,enlightenedHBO,Enlightened,"TV Show",0,52702,63,yes,https://www.facebook.com/enlightenedHBO/
+109856449086768,BuffyTheVampireSlayer,"Buffy The Vampire Slayer","TV Show",0.03,1792573,45032,yes,https://www.facebook.com/BuffyTheVampireSlayer/
+6985532230,BenFolds,"Ben Folds",Musician/Band,0.02,604866,3471,no,https://www.facebook.com/BenFolds/
+43413980024,pratchett,"Terry Pratchett",Author,0.01,784434,747,yes,https://www.facebook.com/pratchett/
+105657322802566,primusville,Primus,Musician/Band,0.02,1043579,11563,yes,https://www.facebook.com/primusville/
+8606723411,thedoors,"The Doors",Musician/Band,0.05,16883253,35789,no,https://www.facebook.com/thedoors/
+29112278285,scrubs,Scrubs,"TV Show",0.02,11390745,6888,yes,https://www.facebook.com/scrubs/
+110475388978628,TheWalkingDeadAMC,"The Walking Dead","TV Show",2.1,36201904,163072,yes,https://www.facebook.com/TheWalkingDeadAMC/
+7594249100,SuzanneVegaFanPage,"Suzanne Vega",Musician/Band,0.03,219604,3726,yes,https://www.facebook.com/SuzanneVegaFanPage/
+245805692122708,OfficiallyJohnLithgow,"Officially John Lithgow","Public Figure",0.01,31475,48,yes,https://www.facebook.com/OfficiallyJohnLithgow/
+40027521936,NCIS,NCIS,"TV Show",0.02,17097985,55219,no,https://www.facebook.com/NCIS/
+212856152066337,HellonWheelsAMC,"Hell On Wheels","TV Show",0.01,656822,876,yes,https://www.facebook.com/HellonWheelsAMC/
+195933960454570,,"Wonder Showzen","TV Show",0,56959,68,yes,https://www.facebook.com/Wonder-Showzen-195933960454570/
+23317869104,chuck,Chuck,"TV Show",0,2089837,4935,no,https://www.facebook.com/chuck/
+109901125741792,CraigThompsonAuthor,"Craig Thompson graphic novelist",Author,0,24924,32,yes,https://www.facebook.com/CraigThompsonAuthor/
+64294390660,St.Vincent,"St. Vincent",Musician/Band,0.02,483795,19669,yes,https://www.facebook.com/St.Vincent/
+257972797573599,Chronicle,Chronicle,Movie,0,747029,504,no,https://www.facebook.com/Chronicle/
+32087397772,ChildrensHospitalTV,"Childrens Hospital","TV Show",0,115033,91,no,https://www.facebook.com/ChildrensHospitalTV/
+6798562721,BreakingBad,"Breaking Bad","TV Show",0.01,11578540,13347,yes,https://www.facebook.com/BreakingBad/
+76613428183,communitytv,Community,"TV Show",0,1695786,1763,yes,https://www.facebook.com/communitytv/
+7882688577,BizarreFoods,"Bizarre Foods","TV Show",0.02,758998,713,yes,https://www.facebook.com/BizarreFoods/
+7218745779,falloutboy,"Fall Out Boy",Musician/Band,0.12,9451179,21694,yes,https://www.facebook.com/falloutboy/
+8128837281,LupeFiasco,"Lupe Fiasco",Musician/Band,0.04,3734195,7263,no,https://www.facebook.com/LupeFiasco/
+304367905023,patrickstump,"Patrick Stump",Musician/Band,0.01,274982,226,yes,https://www.facebook.com/patrickstump/
+103123839728353,,"Memphis, Tennessee",City,0,256665,0,no,https://www.facebook.com/pages/Memphis-Tennessee/103123839728353
+109367202416421,,"Mystery Train",Movie,0,15961,0,yes,https://www.facebook.com/pages/Mystery-Train/109367202416421
+10099470953,jim.jarmusch,"Jim Jarmusch","Public Figure",0,263907,130,yes,https://www.facebook.com/jim.jarmusch/
+383897895041,thewhitestripes,"The White Stripes",Musician/Band,0,2975005,2591,yes,https://www.facebook.com/thewhitestripes/
+8107307318,polyvinylrecords,"Polyvinyl Record Company","Record Label",0.06,35223,1178,no,https://www.facebook.com/polyvinylrecords/
+25796438685,ofmontreal,"of Montreal",Musician/Band,0,283469,371,yes,https://www.facebook.com/ofmontreal/
+102666876445950,BobsBurgers,"Bob's Burgers","TV Show",0.03,1741705,32027,yes,https://www.facebook.com/BobsBurgers/
+111706375512029,,"Kristen Schaal","Books & Magazines",0,41130,0,no,https://www.facebook.com/pages/Kristen-Schaal/111706375512029
+109564299069448,,"Bubble Boy",Interest,0,28314,0,no,https://www.facebook.com/pages/Bubble-Boy/109564299069448
+428935637123395,TheGraduateMovie,"The Graduate",Movie,0,271681,229,yes,https://www.facebook.com/TheGraduateMovie/
+106147419416997,,"The Graduate",Movie,0,158605,0,yes,https://www.facebook.com/pages/The-Graduate/106147419416997
+107898785905401,,"Wayne's World",Movie,0,296686,0,yes,https://www.facebook.com/pages/Waynes-World/107898785905401
+13960261187,DustinHoffman,"Dustin Hoffman","Public Figure",0,232701,126,yes,https://www.facebook.com/DustinHoffman/
+81619266009,DiscoverLosAngeles,"Discover Los Angeles","Local & Travel Website",0.07,1104230,2307,yes,https://www.facebook.com/DiscoverLosAngeles/
+110970792260960,,"Los Angeles, California",City,0,7064829,0,no,https://www.facebook.com/pages/Los-Angeles-California/110970792260960
+18554375953,totoband,Toto,Musician/Band,0.01,1460524,1628,yes,https://www.facebook.com/totoband/
+78355368374,subpoprecords,"Sub Pop Records","Record Label",0.05,256938,1560,yes,https://www.facebook.com/subpoprecords/
+130734266994355,thehumanleague,"The Human League",Musician/Band,0.08,426835,667,yes,https://www.facebook.com/thehumanleague/
+27884559729,,"* Rocky Votolato",Musician/Band,0,2803,3,yes,https://www.facebook.com/-Rocky-Votolato-27884559729/
+39092603429,mattpondpa,"matt pond PA",Musician/Band,0.01,18759,125,yes,https://www.facebook.com/mattpondpa/
+298021908499,belleandsebastian,"Belle and Sebastian",Musician/Band,0.03,385888,1247,yes,https://www.facebook.com/belleandsebastian/
+55685593658,TelekinesisMusic,Telekinesis,Musician/Band,0.01,29411,27,yes,https://www.facebook.com/TelekinesisMusic/
+88476979019,mergerecords,"Merge Records","Record Label",0.08,63351,206,yes,https://www.facebook.com/mergerecords/
+105699609464054,,"Telekinesis (band)",Interest,0,11152,0,no,https://www.facebook.com/pages/Telekinesis-band/105699609464054
+108163935878557,,"Wye Oak",Interest,0,20077,0,no,https://www.facebook.com/pages/Wye-Oak/108163935878557
+14168304109,wyeoak,"Wye Oak",Musician/Band,0.01,89061,429,yes,https://www.facebook.com/wyeoak/
+140731500326,MadMen,"Mad Men","TV Show",0.02,2686055,2216,yes,https://www.facebook.com/MadMen/
+5991693871,TheWire,"The Wire","TV Show",0,1845498,16399,yes,https://www.facebook.com/TheWire/
+30566281895,LOST,Lost,"TV Show",0,9767097,6331,yes,https://www.facebook.com/LOST/
+10655752394,theymightbegiants,"They Might Be Giants",Musician/Band,0.02,332180,1875,no,https://www.facebook.com/theymightbegiants/
+139375155037,severinfilms,"Severin Films","Movie/Television Studio",0.14,26463,480,yes,https://www.facebook.com/severinfilms/
+8290410420,wilcohq,Wilco,Musician/Band,0.04,665504,3589,yes,https://www.facebook.com/wilcohq/
+8838241270,TheLowAnthem,"The Low Anthem",Musician/Band,0.01,34799,17,yes,https://www.facebook.com/TheLowAnthem/
+108291515890437,,"Dum Dum Girls",Interest,0,8211,0,no,https://www.facebook.com/pages/Dum-Dum-Girls/108291515890437
+12429835443,lcdsoundsystem,"LCD Soundsystem",Musician/Band,0.02,774776,2199,yes,https://www.facebook.com/lcdsoundsystem/
+6672671107,anticonrecords,Anticon,"Record Label",0.01,34888,74,no,https://www.facebook.com/anticonrecords/
+206759555779,bathsmusic,Baths,Musician/Band,0,107969,557,yes,https://www.facebook.com/bathsmusic/
+23230588990,CrookedFingers,"Eric Bachmann",Musician/Band,0.01,10198,148,yes,https://www.facebook.com/CrookedFingers/
+170928575215,TransistorChicago,"Transistor Chicago","Electronics Store",0,2999,12,yes,https://www.facebook.com/TransistorChicago/
+140511506008,HangUpAndListen,"Hang Up and Listen",Website,0.02,7173,19,yes,https://www.facebook.com/HangUpAndListen/
+65766238628,foundfootagefestival,"Found Footage Festival",Movie,0.04,25226,1063,yes,https://www.facebook.com/foundfootagefestival/
+34326799499,hotdougs,"Hot Doug's","Fast Food Restaurant",0,29734,34,yes,https://www.facebook.com/hotdougs/
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
+20950654496,117213655674251,true
+20950654496,936699126457536,true
+20950654496,969328293142127,true
+20950654496,559192904227890,true
+20950654496,917440214962126,true
+20950654496,20531316728,true
+20950654496,368257363210758,true
+20950654496,1439042583002670,true
+20950654496,299551873524339,true
+20950654496,183888964961044,true
+20950654496,39581755672,true
+20950654496,109790298861,true
+117213655674251,411063055939696,true
+969328293142127,42646166995,true
+969328293142127,138645369485522,true
+969328293142127,936699126457536,true
+969328293142127,276102415796074,true
+969328293142127,183888964961044,true
+969328293142127,559192904227890,true
+969328293142127,917440214962126,true
+969328293142127,562288220593130,true
+969328293142127,39581755672,true
+559192904227890,117213655674251,true
+559192904227890,936699126457536,true
+559192904227890,183888964961044,true
+559192904227890,917440214962126,true
+559192904227890,969328293142127,true
+917440214962126,936699126457536,true
+917440214962126,276102415796074,true
+917440214962126,562288220593130,true
+917440214962126,969328293142127,true
+917440214962126,1069936086365702,true
+917440214962126,559192904227890,true
+917440214962126,299551873524339,true
+917440214962126,109790298861,true
+917440214962126,899482440144146,true
+917440214962126,20531316728,true
+917440214962126,20950654496,true
+917440214962126,183888964961044,true
+917440214962126,39581755672,true
+917440214962126,1439042583002670,true
+917440214962126,368257363210758,true
+20531316728,152917571386966,true
+20531316728,486807888134241,true
+20531316728,74100576336,true
+20531316728,390332947672289,true
+20531316728,158736497491762,true
+20531316728,367152833370567,true
+20531316728,41130665917,true
+20531316728,143483439014410,true
+20531316728,150984694912422,true
+20531316728,10435416547,true
+20531316728,125713384123802,true
+368257363210758,117213655674251,true
+368257363210758,559192904227890,true
+368257363210758,45099769719,true
+368257363210758,125463277610910,true
+368257363210758,181139617658,true
+368257363210758,25730596490,true
+368257363210758,107292852631016,true
+368257363210758,626344864088651,true
+368257363210758,171613709519219,true
+368257363210758,138433099531426,true
+368257363210758,46345513482,true
+368257363210758,84763399274,true
+368257363210758,143743819137192,true
+368257363210758,299551873524339,true
+368257363210758,20531316728,true
+368257363210758,917440214962126,true
+368257363210758,1438390789784819,true
+368257363210758,209428082411028,true
+368257363210758,180715575463664,true
+368257363210758,246088980886,true
+368257363210758,7990899756,true
+368257363210758,7236260177,true
+368257363210758,54145863002,true
+368257363210758,123032162727,true
+368257363210758,105868097300,true
+368257363210758,19557566476,true
+368257363210758,5642244660,true
+368257363210758,321682048036990,true
+368257363210758,167658763270506,true
+368257363210758,45002877992,true
+368257363210758,506386699400611,true
+368257363210758,412302902150250,true
+368257363210758,6096369029,true
+368257363210758,271902080532,true
+368257363210758,14101740225,true
+368257363210758,74296272587,true
+368257363210758,156518261115293,true
+368257363210758,608604699274008,true
+368257363210758,51657563086,true
+368257363210758,39005545661,true
+368257363210758,22764423720,true
+368257363210758,7177913734,true
+368257363210758,8310601338,true
+368257363210758,7270241753,true
+368257363210758,22166130048,true
+368257363210758,129116587024,true
+368257363210758,899482440144146,true
+368257363210758,27678194634,true
+368257363210758,322751224414232,true
+368257363210758,34145704527,true
+368257363210758,6007352619,true
+368257363210758,109790298861,true
+368257363210758,183888964961044,true
+368257363210758,383388851123,true
+368257363210758,126756847074,true
+368257363210758,10461186460,true
+368257363210758,145271360491,true
+368257363210758,205371536152782,true
+368257363210758,238205562866018,true
+368257363210758,194053120879,true
+368257363210758,146766568694599,true
+368257363210758,24860070976,true
+368257363210758,1088846181131521,true
+368257363210758,120167766006,true
+368257363210758,26376118037,true
+368257363210758,182742245082814,true
+368257363210758,184980658288116,true
+368257363210758,209439910667,true
+368257363210758,159615015923,true
+368257363210758,213639758781,true
+368257363210758,55330643140,true
+368257363210758,158752840999708,true
+368257363210758,8625520535,true
+368257363210758,47738073741,true
+368257363210758,8103318119,true
+368257363210758,20950654496,true
+368257363210758,1439042583002670,true
+368257363210758,39581755672,true
+368257363210758,27486451851,true
+368257363210758,288473261199516,true
+368257363210758,235706558591,true
+368257363210758,7144906559,true
+368257363210758,229953860348112,true
+368257363210758,205867202331,true
+368257363210758,196962083762082,true
+368257363210758,22707976849,true
+368257363210758,149925701704512,true
+1439042583002670,117213655674251,true
+1439042583002670,108527589171043,true
+1439042583002670,936699126457536,true
+1439042583002670,183888964961044,true
+1439042583002670,559192904227890,true
+1439042583002670,969328293142127,true
+1439042583002670,344945368958439,true
+1439042583002670,917440214962126,true
+1439042583002670,142318649136676,true
+1439042583002670,20531316728,true
+1439042583002670,21411215352,true
+1439042583002670,429762540505399,true
+1439042583002670,89562268312,true
+1439042583002670,1420531521507238,true
+1439042583002670,498110930201359,true
+1439042583002670,39581755672,true
+1439042583002670,20950654496,true
+299551873524339,20950654496,true
+299551873524339,374111189271559,true
+299551873524339,161046697289702,true
+299551873524339,213911638716638,true
+299551873524339,121481837925275,true
+183888964961044,117213655674251,true
+183888964961044,936699126457536,true
+183888964961044,559192904227890,true
+183888964961044,917440214962126,true
+183888964961044,969328293142127,true
+183888964961044,299551873524339,true
+183888964961044,284300559123,true
+183888964961044,257372997608848,true
+183888964961044,79979913992,true
+183888964961044,64637653943,true
+183888964961044,110811238947525,true
+183888964961044,20531316728,true
+183888964961044,20950654496,true
+183888964961044,148810881835382,true
+183888964961044,183359918346087,true
+39581755672,138645369485522,true
+39581755672,936699126457536,true
+39581755672,398131566864453,true
+39581755672,255364922374,true
+39581755672,64075251007,true
+39581755672,475108665872221,true
+39581755672,57802365742,true
+39581755672,276102415796074,true
+39581755672,183888964961044,true
+39581755672,559192904227890,true
+39581755672,969328293142127,true
+39581755672,562288220593130,true
+39581755672,917440214962126,true
+39581755672,162454007121996,true
+39581755672,116548701336,true
+39581755672,191590407552375,true
+39581755672,335102103242405,true
+39581755672,22211200611,true
+39581755672,197311240419563,true
+39581755672,140859252640484,true
+39581755672,665814993476244,true
+39581755672,425435420806576,true
+39581755672,10513336322,true
+39581755672,301768729858252,true
+39581755672,1439042583002670,true
+39581755672,119252028163238,true
+39581755672,295074610512693,true
+39581755672,114286765252202,true
+39581755672,7433207084,true
+39581755672,11251675980,true
+39581755672,442820962412810,true
+39581755672,57672450150,true
+39581755672,123031417774466,true
+39581755672,7034617962,true
+39581755672,6275848869,true
+39581755672,6979332244,true
+39581755672,21872489496,true
+39581755672,20778076336,true
+39581755672,15526475270,true
+39581755672,22476490672,true
+39581755672,30975687682,true
+39581755672,9588466619,true
+39581755672,52012253855,true
+39581755672,6092929747,true
+39581755672,7807422276,true
+39581755672,29534858696,true
+39581755672,20531316728,true
+39581755672,10473091455,true
+39581755672,18957981609,true
+39581755672,262102492125,true
+39581755672,207203639334660,true
+39581755672,74133697733,true
+39581755672,23415556776,true
+39581755672,68240789745,true
+39581755672,17314008126,true
+39581755672,209758011306,true
+39581755672,105719356904,true
+39581755672,132845190077946,true
+39581755672,5229624654,true
+39581755672,107777555911981,true
+39581755672,15925638948,true
+39581755672,20092504125,true
+39581755672,11955325695,true
+39581755672,30899502664,true
+39581755672,39644305296,true
+39581755672,10671482654,true
+39581755672,7976226799,true
+39581755672,21931600316,true
+39581755672,24709128407,true
+39581755672,18279403944,true
+39581755672,14591271531,true
+39581755672,22939707441,true
+39581755672,5151709484,true
+39581755672,10643211755,true
+39581755672,6243987495,true
+39581755672,125938460770575,true
+39581755672,473374319361548,true
+39581755672,122367057790637,true
+39581755672,170128313073004,true
+39581755672,11539801009,true
+39581755672,64386671720,true
+39581755672,10045457582,true
+39581755672,9023924452,true
+39581755672,63235852597,true
+39581755672,181143148594254,true
+39581755672,75889690752,true
+39581755672,117385731241,true
+39581755672,40039128105,true
+39581755672,43542925935,true
+39581755672,198200580226823,true
+39581755672,7774036261,true
+39581755672,6708787004,true
+39581755672,114098901934106,true
+39581755672,8526405673,true
+39581755672,104096819626010,true
+39581755672,8759772983,true
+39581755672,239388882769452,true
+39581755672,121241604618898,true
+39581755672,109856449086768,true
+39581755672,6985532230,true
+39581755672,43413980024,true
+39581755672,105657322802566,true
+39581755672,8606723411,true
+39581755672,29112278285,true
+39581755672,110475388978628,true
+39581755672,7594249100,true
+39581755672,245805692122708,true
+39581755672,40027521936,true
+39581755672,212856152066337,true
+39581755672,195933960454570,true
+39581755672,23317869104,true
+39581755672,109901125741792,true
+39581755672,64294390660,true
+39581755672,257972797573599,true
+39581755672,32087397772,true
+39581755672,6798562721,true
+39581755672,76613428183,true
+39581755672,7882688577,true
+39581755672,7218745779,true
+39581755672,8128837281,true
+39581755672,304367905023,true
+39581755672,103123839728353,true
+39581755672,109367202416421,true
+39581755672,10099470953,true
+39581755672,383897895041,true
+39581755672,8107307318,true
+39581755672,25796438685,true
+39581755672,102666876445950,true
+39581755672,111706375512029,true
+39581755672,109564299069448,true
+39581755672,428935637123395,true
+39581755672,106147419416997,true
+39581755672,107898785905401,true
+39581755672,13960261187,true
+39581755672,81619266009,true
+39581755672,110970792260960,true
+39581755672,18554375953,true
+39581755672,78355368374,true
+39581755672,130734266994355,true
+39581755672,27884559729,true
+39581755672,39092603429,true
+39581755672,298021908499,true
+39581755672,55685593658,true
+39581755672,88476979019,true
+39581755672,105699609464054,true
+39581755672,108163935878557,true
+39581755672,14168304109,true
+39581755672,140731500326,true
+39581755672,20950654496,true
+39581755672,5991693871,true
+39581755672,30566281895,true
+39581755672,42646166995,true
+39581755672,10655752394,true
+39581755672,139375155037,true
+39581755672,8290410420,true
+39581755672,8838241270,true
+39581755672,108291515890437,true
+39581755672,12429835443,true
+39581755672,6672671107,true
+39581755672,206759555779,true
+39581755672,23230588990,true
+39581755672,170928575215,true
+39581755672,140511506008,true
+39581755672,65766238628,true
+39581755672,34326799499,true
+109790298861,39581755672,true
+109790298861,20950654496,true
+411063055939696,117213655674251,true
+42646166995,22211200611,true
+42646166995,39581755672,true
+42646166995,145271360491,true
+562288220593130,936699126457536,true
+562288220593130,29534858696,true
+562288220593130,6275848869,true
+562288220593130,276102415796074,true
+562288220593130,74133697733,true
+562288220593130,183888964961044,true
+562288220593130,559192904227890,true
+562288220593130,917440214962126,true
+562288220593130,39581755672,true
+562288220593130,969328293142127,true
+152917571386966,20531316728,true
+74100576336,205371536152782,true
+74100576336,126756847074,true
+74100576336,41130665917,true
+74100576336,194053120879,true
+74100576336,20531316728,true
+41130665917,20531316728,true
+41130665917,125713384123802,true
+41130665917,150984694912422,true
+41130665917,143483439014410,true
+41130665917,74100576336,true
+143483439014410,390332947672289,true
+143483439014410,150984694912422,true
+143483439014410,367152833370567,true
+143483439014410,20531316728,true
+143483439014410,125713384123802,true
+143483439014410,74100576336,true
+10435416547,19557566476,true
+10435416547,5229624654,true
+10435416547,18279403944,true
+10435416547,304367905023,true
+10435416547,7218745779,true
+10435416547,107777555911981,true
+10435416547,20531316728,true
+125713384123802,20531316728,true
+107292852631016,368257363210758,true
+84763399274,368257363210758,true
+84763399274,20950654496,true
+209428082411028,39581755672,true
+7236260177,7976226799,true
+7236260177,143743819137192,true
+7236260177,15526475270,true
+7236260177,125938460770575,true
+7236260177,74133697733,true
+7236260177,140731500326,true
+7236260177,6798562721,true
+7236260177,126756847074,true
+7236260177,194053120879,true
+7236260177,63235852597,true
+7236260177,7270241753,true
+7236260177,6275848869,true
+54145863002,6007352619,true
+123032162727,20531316728,true
+19557566476,20950654496,true
+321682048036990,5642244660,true
+167658763270506,74296272587,true
+45002877992,255364922374,true
+45002877992,102666876445950,true
+45002877992,29534858696,true
+45002877992,18957981609,true
+412302902150250,20531316728,true
+412302902150250,27486451851,true
+6096369029,626344864088651,true
+6096369029,9588466619,true
+6096369029,6708787004,true
+6096369029,7976226799,true
+271902080532,8103318119,true
+14101740225,27678194634,true
+51657563086,262102492125,true
+51657563086,26376118037,true
+51657563086,8107307318,true
+51657563086,64075251007,true
+51657563086,22211200611,true
+51657563086,47738073741,true
+51657563086,6096369029,true
+51657563086,111706375512029,true
+51657563086,20950654496,true
+51657563086,9588466619,true
+51657563086,7976226799,true
+51657563086,22476490672,true
+51657563086,6979332244,true
+39005545661,46345513482,true
+39005545661,368257363210758,true
+39005545661,145271360491,true
+39005545661,74100576336,true
+39005545661,125713384123802,true
+39005545661,205371536152782,true
+39005545661,146766568694599,true
+39005545661,126756847074,true
+39005545661,7976226799,true
+39005545661,20950654496,true
+39005545661,194053120879,true
+8310601338,6096369029,true
+27678194634,121481837925275,true
+27678194634,7270241753,true
+27678194634,20531316728,true
+27678194634,22707976849,true
+34145704527,10643211755,true
+34145704527,20950654496,true
+34145704527,76613428183,true
+6007352619,196962083762082,true
+6007352619,11955325695,true
+6007352619,7976226799,true
+383388851123,39581755672,true
+383388851123,20950654496,true
+383388851123,8103318119,true
+145271360491,42646166995,true
+205371536152782,27486451851,true
+238205562866018,8103318119,true
+238205562866018,19557566476,true
+238205562866018,197311240419563,true
+238205562866018,271902080532,true
+238205562866018,123031417774466,true
+238205562866018,7144906559,true
+238205562866018,6275848869,true
+238205562866018,74133697733,true
+238205562866018,6243987495,true
+238205562866018,22707976849,true
+238205562866018,7990899756,true
+194053120879,7270241753,true
+146766568694599,20531316728,true
+24860070976,194053120879,true
+24860070976,162454007121996,true
+24860070976,74100576336,true
+24860070976,6092929747,true
+24860070976,20531316728,true
+24860070976,41130665917,true
+24860070976,10461186460,true
+159615015923,126756847074,true
+159615015923,368257363210758,true
+159615015923,15925638948,true
+159615015923,39005545661,true
+159615015923,145271360491,true
+8625520535,110475388978628,true
+47738073741,665814993476244,true
+27486451851,20531316728,true
+27486451851,10643211755,true
+27486451851,8103318119,true
+235706558591,10473091455,true
+235706558591,89562268312,true
+235706558591,7270241753,true
+374111189271559,121481837925275,true
+213911638716638,64637653943,true
+121481837925275,299551873524339,true
+121481837925275,6092929747,true
+284300559123,257372997608848,true
+284300559123,79979913992,true
+257372997608848,64637653943,true
+257372997608848,284300559123,true
+79979913992,284300559123,true
+64637653943,284300559123,true
+148810881835382,20950654496,true
+148810881835382,183359918346087,true
+148810881835382,183888964961044,true
+183359918346087,20950654496,true
+183359918346087,183888964961044,true
+183359918346087,148810881835382,true
+398131566864453,9023924452,true
+398131566864453,6708787004,true
+398131566864453,7270241753,true
+398131566864453,29534858696,true
+398131566864453,6275848869,true
+398131566864453,110475388978628,true
+398131566864453,20531316728,true
+398131566864453,15925638948,true
+475108665872221,64075251007,true
+57802365742,116548701336,true
+57802365742,10671482654,true
+57802365742,63235852597,true
+57802365742,123031417774466,true
+57802365742,6092929747,true
+57802365742,29534858696,true
+57802365742,15526475270,true
+57802365742,6708787004,true
+57802365742,107777555911981,true
+57802365742,7807422276,true
+57802365742,6798562721,true
+57802365742,7270241753,true
+57802365742,255364922374,true
+57802365742,20531316728,true
+57802365742,39581755672,true
+57802365742,15925638948,true
+57802365742,20950654496,true
+116548701336,197311240419563,true
+116548701336,74133697733,true
+116548701336,57802365742,true
+116548701336,626344864088651,true
+116548701336,9023924452,true
+116548701336,110475388978628,true
+116548701336,76613428183,true
+116548701336,29112278285,true
+335102103242405,6243987495,true
+335102103242405,107777555911981,true
+22211200611,8290410420,true
+22211200611,6096369029,true
+301768729858252,30975687682,true
+301768729858252,21931600316,true
+301768729858252,10643211755,true
+301768729858252,30899502664,true
+301768729858252,22476490672,true
+301768729858252,78355368374,true
+119252028163238,262102492125,true
+7433207084,198200580226823,true
+7433207084,105719356904,true
+11251675980,29534858696,true
+11251675980,6092929747,true
+11251675980,14591271531,true
+11251675980,18279403944,true
+11251675980,30975687682,true
+11251675980,22476490672,true
+11251675980,6979332244,true
+11251675980,8606723411,true
+11251675980,30899502664,true
+11251675980,12429835443,true
+123031417774466,162454007121996,true
+9588466619,6096369029,true
+6092929747,239388882769452,true
+6092929747,63235852597,true
+6092929747,76613428183,true
+6092929747,23317869104,true
+29534858696,18957981609,true
+29534858696,102666876445950,true
+29534858696,45002877992,true
+10473091455,143743819137192,true
+18957981609,29534858696,true
+18957981609,102666876445950,true
+207203639334660,10643211755,true
+74133697733,10643211755,true
+74133697733,255364922374,true
+74133697733,125938460770575,true
+23415556776,197311240419563,true
+23415556776,17314008126,true
+68240789745,24709128407,true
+105719356904,198200580226823,true
+39644305296,257972797573599,true
+7976226799,6096369029,true
+5151709484,170128313073004,true
+6243987495,390332947672289,true
+6243987495,6979332244,true
+6243987495,10643211755,true
+6243987495,20531316728,true
+125938460770575,74133697733,true
+125938460770575,123031417774466,true
+122367057790637,21931600316,true
+63235852597,197311240419563,true
+63235852597,6092929747,true
+63235852597,76613428183,true
+63235852597,23317869104,true
+40039128105,18279403944,true
+7774036261,5991693871,true
+7774036261,7882688577,true
+6708787004,6096369029,true
+8759772983,5151709484,true
+8759772983,25796438685,true
+29112278285,30566281895,true
+110475388978628,19557566476,true
+110475388978628,212856152066337,true
+110475388978628,140731500326,true
+110475388978628,6798562721,true
+40027521936,7807422276,true
+212856152066337,110475388978628,true
+212856152066337,140731500326,true
+212856152066337,6798562721,true
+6798562721,212856152066337,true
+6798562721,110475388978628,true
+6798562721,140731500326,true
+76613428183,23317869104,true
+7882688577,7774036261,true
+7218745779,304367905023,true
+8128837281,10435416547,true
+8107307318,10643211755,true
+8107307318,88476979019,true
+8107307318,55685593658,true
+8107307318,23230588990,true
+8107307318,301768729858252,true
+8107307318,262102492125,true
+8107307318,78355368374,true
+8107307318,6243987495,true
+8107307318,39581755672,true
+8107307318,140859252640484,true
+8107307318,25796438685,true
+25796438685,30899502664,true
+25796438685,8107307318,true
+102666876445950,29534858696,true
+102666876445950,18957981609,true
+102666876445950,45002877992,true
+81619266009,20531316728,true
+81619266009,110970792260960,true
+78355368374,10513336322,true
+78355368374,102666876445950,true
+78355368374,8107307318,true
+78355368374,6243987495,true
+78355368374,119252028163238,true
+78355368374,10435416547,true
+78355368374,88476979019,true
+78355368374,39581755672,true
+78355368374,24709128407,true
+55685593658,88476979019,true
+88476979019,170928575215,true
+88476979019,6243987495,true
+88476979019,10643211755,true
+88476979019,23230588990,true
+88476979019,14168304109,true
+88476979019,17314008126,true
+88476979019,104096819626010,true
+88476979019,55685593658,true
+14168304109,88476979019,true
+140731500326,19557566476,true
+140731500326,212856152066337,true
+140731500326,110475388978628,true
+140731500326,6798562721,true
+8290410420,11539801009,true
+8290410420,10513336322,true
+8290410420,21931600316,true
+8290410420,132845190077946,true
+8290410420,14591271531,true
+8290410420,24709128407,true
+8838241270,64294390660,true
+8838241270,140859252640484,true
+8838241270,6979332244,true
+12429835443,10643211755,true
+12429835443,22476490672,true
+6672671107,206759555779,true
+23230588990,88476979019,true
+170928575215,140859252640484,true
+170928575215,42646166995,true
+170928575215,78355368374,true
+170928575215,8107307318,true
