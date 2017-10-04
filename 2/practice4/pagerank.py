@@ -1,3 +1,5 @@
+import math
+
 def build_graph(edges):
     graph = {}
     for e in edges:
@@ -6,20 +8,11 @@ def build_graph(edges):
         if dest in graph:
             graph[dest]['likes'].append(src)
         else:
-            graph[dest] = {
-                'PR': 0.0,
-                'C': 0,
-                'likes': [src]
-            }
-
+            graph[dest] = { 'PR': 0.0, 'C': 0, 'likes': [src] }
         if src in graph:
             graph[src]['C'] += 1
         else:
-            graph[src] = {
-                'PR': 0.0,
-                'C': 1,
-                'likes': []
-            }
+            graph[src] = { 'PR': 0.0, 'C': 1, 'likes': [] }
     return graph
 
 def PR(node, graph, d):
@@ -41,7 +34,7 @@ def PR_graph(graph, d, it):
 edges_path = 'data/edges.csv'
 nodes_path = 'data/nodes.csv'
 d = 0.85
-it = 1000
+it = 10
 with open(edges_path, 'r') as f:
     edges = list(map(lambda x: x.strip('\n').split(','), f.readlines()))[1:]
 with open(nodes_path, 'r') as f:
@@ -49,19 +42,27 @@ with open(nodes_path, 'r') as f:
 graph = build_graph(edges)
 
 # Calculating PR
-new_graph = PR_graph(graph, d, it)
-influences = sorted(new_graph, key=lambda x: new_graph[x]['PR'], reverse=True)
-
-print('Most influential:')
-for i in range(5):
-    node_id = influences[i]
-    node_name = nodes[node_id]
-    print(node_name + ': ' + str(graph[node_id]['PR']))
 print()
+for i in range(3):
+    new_graph = PR_graph(graph, d, int(math.pow(it, i + 1)))
+    influences = sorted(new_graph, key=lambda x: new_graph[x]['PR'], reverse=True)
+    print(' PageRank with ' + str(int(math.pow(it, i + 1)) * len(nodes)) + ' iterations:')
 
-# Average
-average = 0
-for node in new_graph.values():
-    average += node['PR']
-average /= len(new_graph.values())
-print('Average: ' + str(average))
+    print(' Most influential:')
+    for i in range(3):
+        node_id = influences[i]
+        node_name = nodes[node_id]
+        print(' ' + node_name + ' | ' + str(graph[node_id]['PR']))
+    print(' Least influential:')
+    for i in range(3):
+        node_id = influences[-(i + 1)]
+        node_name = nodes[node_id]
+        print(' ' + node_name + ' | ' + str(graph[node_id]['PR']))
+
+    # Average
+    average = 0
+    for node in new_graph.values():
+        average += node['PR']
+    average /= len(new_graph.values())
+    print(' Average: ' + str(average))
+    print()
